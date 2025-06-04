@@ -22,3 +22,8 @@ I HAVE ALSO THE FREE WEATHER API FOR ACCESSING THE WEATHER REPORT AND THE WEBSIT
 
 WE NEED TO USE THIS COMMAND   " NPM START "
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d8963d89-2996-4393-b25f-df14dab8b33d)
+
+![Image](https://github.com/user-attachments/assets/88a6ff3d-aa3b-493b-83e6-b71f785a9be9)
